@@ -390,7 +390,7 @@ February 25, 1956 (two weeks)</td>
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-97342117592a5b8c49ed9657c8a4be03b814ccbe7d6c9a1e4e91f5a7e86bc3bb">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-d36a78065a4ac046efeebd4110c88b78850772c7ab6e114e7e161f3d7a1fab92">
   
     
       

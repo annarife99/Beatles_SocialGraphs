@@ -432,7 +432,7 @@ and Russ Titelman</td>
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-2e6cfa8bc58d1a7867e87f7e0257931d4f658c4e51bee60612498714ed15ccc6">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-df2406fe12dd8f3affcc6204cb4650c9c8df8d542e993b403f51073c3201f7ec">
   
     
       

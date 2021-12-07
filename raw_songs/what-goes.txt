@@ -460,7 +460,7 @@ What goes on in your mind?</p>
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-859a9059bef1274d9461e3f4a088a6efb7e4da3b4e19156e4d211bdb2794f65a">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-e3c4bb586ace3ee113b41d45fb24d7565d17314ed2b4b72b4e91bb32f3b1f4c9">
   
     
       

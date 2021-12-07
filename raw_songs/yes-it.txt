@@ -419,7 +419,7 @@ Yes, it is, it's true.</p>
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-54b58ecbc7f34f4c1e7470854d2ae2883fbde28a4b3b02ae58fae173afd1b716">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-b20d53c467268955479f40b7d0c6955a22f16cd358b6fa05721404b31efd444a">
   
     
       

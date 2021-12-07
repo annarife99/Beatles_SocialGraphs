@@ -437,7 +437,7 @@ It's real</p>
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-672bdf7d80a6bbae39a843e34fbcae1fa015e4b176a3045d69afcbe04f7865ec">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-f8d438c8a33673f8f1132c2b4155b2ca9522dd9bf26dc965be8a39ac4b0f1375">
   
     
       

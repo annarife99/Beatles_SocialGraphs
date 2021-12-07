@@ -353,7 +353,7 @@
   
       <h2>Related Articles</h2>
     
-      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-453a22af3d7bb8077b75928627c8019f114ac5f65811cf15dd37872110c3ad52">
+      <div><div class="view view-related-content view-id-related_content view-display-id-block_1 js-view-dom-id-a76267f16fe89fb1912c3219c9ac519d1b05b494a3c0381931161f1b0fad8864">
   
     
       
@@ -372,7 +372,7 @@
                   
               
               
-                  <img src="/sites/default/files/styles/responsive_thumbnail_mobile/public/inline-images/SharedImage-93252%20%281%29.jpg?itok=mDZHIxYO" typeof="Image" />
+                  <img src="/sites/default/files/styles/responsive_thumbnail_mobile/public/2021-10/GET_BACK_KEYART_FINISH_08_MECH_NR_101221_0.jpg?itok=9Vnpgufv" alt="The Beatles Get Back" typeof="Image" />
 
   
 
